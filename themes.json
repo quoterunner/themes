@@ -1,0 +1,23 @@
+{
+  0: [{
+    "name": "Default",
+    "backgroundColor": "white",
+    "headerBackgroundColor": "lightgrey",
+    "headerTextColor": "black",
+    "headerQuoteUnselected": "grey",
+    "headerQuoteSelected": "blue",
+    "quoteColor": "grey",
+    "authorColor": "grey"
+  }],
+  
+  1: [{
+    "name": "Dark",
+    "backgroundColor": "#121212",
+    "headerBackgroundColor": "#343434",
+    "headerTextColor": "white",
+    "headerQuoteUnselected": "grey",
+    "headerQuoteSelected": "blue",
+    "quoteColor": "grey",
+    "authorColor": "grey"
+  }]
+}
