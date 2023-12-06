@@ -5,7 +5,7 @@
         "backgroundColor": "white",
         "headerBackgroundColor": "lightgrey",
         "headerTextColor": "black",
-        "headerQuoteUnselected": "grey",
+        "headerQuoteUnselected": "black",
         "headerQuoteSelected": "blue",
         "quoteColor": "grey",
         "authorColor": "grey"
@@ -16,7 +16,7 @@
         "backgroundColor": "#121212",
         "headerBackgroundColor": "#343434",
         "headerTextColor": "white",
-        "headerQuoteUnselected": "grey",
+        "headerQuoteUnselected": "white",
         "headerQuoteSelected": "blue",
         "quoteColor": "grey",
         "authorColor": "grey"
