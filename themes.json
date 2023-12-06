@@ -1,6 +1,7 @@
 {
     "0": {
         "name": "Default",
+        "textColor": "black",
         "backgroundColor": "white",
         "headerBackgroundColor": "lightgrey",
         "headerTextColor": "black",
@@ -11,6 +12,7 @@
     },
     "1": {
         "name": "Dark",
+        "textColor": "white",
         "backgroundColor": "#121212",
         "headerBackgroundColor": "#343434",
         "headerTextColor": "white",
