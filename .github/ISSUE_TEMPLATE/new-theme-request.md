@@ -10,6 +10,9 @@ assignees: ''
 **Theme name**
 Name: 
 
+**Text color**
+#
+
 **Background color**
 #
 
