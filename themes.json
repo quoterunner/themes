@@ -9,7 +9,7 @@
         "headerQuoteUnselected": "#4059AD",
         "headerQuoteSelected": "#F4B942",
         "quoteColor": "grey",
-        "authorColor": "#97D8C4",
+        "authorColor": "#97D8C4"
     },
     
     "1": {
@@ -22,7 +22,7 @@
         "headerQuoteUnselected": "black",
         "headerQuoteSelected": "blue",
         "quoteColor": "grey",
-        "authorColor": "grey",
+        "authorColor": "grey"
     },
     
     "2": {
@@ -35,6 +35,6 @@
         "headerQuoteUnselected": "white",
         "headerQuoteSelected": "blue",
         "quoteColor": "grey",
-        "authorColor": "grey",
+        "authorColor": "grey"
     }
 }
